@@ -1,0 +1,5 @@
+1. Addd repo on Git
+2. Clone from VS Code
+3. flutter upgrade
+4. Add icon
+5. First commit to Git
