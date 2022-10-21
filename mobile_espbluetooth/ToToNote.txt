@@ -3,3 +3,15 @@
 3. flutter upgrade
 4. Add icon
 5. First commit to Git
+
+---- TOTO -----------------
+For Debug APK :
+>flutter build apk
+For Release APK :
+>flutter build apk --release
+For App Bundle :
+>flutter build appbundle
+==> Fix for build error
+->flutter build apk --release --no-sound-null-safety
+
+--------------------------
